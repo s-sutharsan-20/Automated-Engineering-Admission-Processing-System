@@ -10,10 +10,13 @@ A web-based application that automates the engineering admission process by coll
 - Real-time display of application status and allotted courses on the website.
 
 ## Technologies Used
-- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Frontend:** HTML, CSS
 - **Backend:** PHP
 - **Database:** MySQL
 - **Web Server:** Apache/XAMPP
+
+## Live Website
+Explore the live project here: [FutureTech Institution](http://futuretechinstitution.great-site.net/)
 
 ## License
 This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
